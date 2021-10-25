@@ -38,6 +38,11 @@ h1 {
 		<li><a href="Bistro/index.html" target="_blank"> Project 1</a></li>
 			<br>
 		<li><a href="Chapter/typography.html" target="_blank"> Project 2</a></li>
+			<br>
+		<li><a href="Council/index.html" target="_blank"> Project 3</a></li>
+			<br>
+		<li><a href="NASA/index.html" target="_blank"> Portfolio 1</a></li>
+	
 	</ul>
 	
 
