@@ -46,7 +46,7 @@ h1 {
 	
 	<h2>PORTFOLIO PROJECTS</h2>
 	<ul>
-		<li><a><li><a href="NASA/index.html" target="_blank"> Portfolio 1</a></li>
+		<li><a href="NASA/index.html" target="_blank"> Portfolio 1</a></li>
 
 </body>
 </html>
