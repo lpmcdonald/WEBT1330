@@ -42,7 +42,6 @@ h1 {
 		<li><a href="Council/index.html" target="_blank"> Project 3</a></li>
 			<br>
 		<li><a href="NASA/index.html" target="_blank"> Portfolio 1</a></li>
-	
 	</ul>
 	
 
