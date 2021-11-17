@@ -46,6 +46,8 @@ h1 {
 		<li><a href="Museum/about.html" target="_blank"> Project 4</a></li>
 			<br>
 		<li><a href="Voices/index.html" target="_blank"> Project 5</a></li>
+			<br>
+		<li><a href="BLVD/index.html" target="_blank"> Project 7</a></li>
 		
 	</ul>
 	
@@ -56,6 +58,8 @@ h1 {
 		<li><a href="Club/index.html" target="_blank"> Portfolio 2</a></li>
 		<br>
 		<li><a href="Solar/index.html" target="_blank"> Portfolio 3</a></li>
+		<br>
+		<li><a href="Gallery/index.html" target="_blank"> Portfolio 4</a></li>
 		<br>
 		
 	</ul>
