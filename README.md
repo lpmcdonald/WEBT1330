@@ -67,6 +67,7 @@ h1 {
 		<ul>
 		<li><a href="Soddy Nails/index.html" target="_blank">Soddy Nails</a></li>
 		</ul>
+	<br>
 
 </body>
 </html>
