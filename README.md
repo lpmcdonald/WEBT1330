@@ -60,9 +60,13 @@ h1 {
 		<li><a href="Solar/index.html" target="_blank"> Portfolio 3</a></li>
 		<br>
 		<li><a href="Gallery/index.html" target="_blank"> Portfolio 4</a></li>
-		<br>
-		
+		<br>		
 	</ul>
+	
+	<h2>FINAL PROJECT</h2>
+		<ul>
+		<li><a href="Soddy Nails/index.html" target="_blank">Soddy Nails</a></li>
+		</ul>
 
 </body>
 </html>
